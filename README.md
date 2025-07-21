@@ -1,1 +1,1 @@
-# HMTENet
+# THMNet
