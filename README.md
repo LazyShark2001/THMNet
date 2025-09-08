@@ -1,2 +1,2 @@
 # THMNet
-EORSSD complex-scene will be released soonw
+EORSSD complex-scene will be released soon.
